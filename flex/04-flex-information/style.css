@@ -25,11 +25,17 @@ img {
   background: #eee;
 }
 
+body {
+  text-align: center;
+}
+
 .contents {
-  display: ;
-  align-items: center;
-  align-content: center;
+  display: flex;
   justify-content: center;
+}
+
+.info {
+  max-width: 200px;
 }
 
 .text {
